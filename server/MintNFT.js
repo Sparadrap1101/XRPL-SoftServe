@@ -10,6 +10,7 @@ function toHex(str) {
 
 async function mintToken() {
   const xrpl = require("xrpl");
+  // Testnet seed
   const SEED = "sEdVchnagVg9Aw8wq2AbvjpfWND5JRr";
 
   const myWallet = xrpl.Wallet.fromSeed(SEED);
