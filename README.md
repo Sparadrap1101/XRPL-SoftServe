@@ -5,3 +5,8 @@
 ![](./src/banniere.png)
 
 We provide a **fraud proof** system that verify if an artwork already has an IP certificate and is store on our database. If it's a new one we create a new certificate for this artwork and send it on-chain.
+
+## Pre-Requisite
+
+- `Python` already installed
+- `Node.js` already installed
