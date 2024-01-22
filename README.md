@@ -52,3 +52,14 @@ npm start
 ```
 
 You can now go to [http://localhost:3000](http://localhost:3000) on your browser and interact with the App!
+
+## How to use
+
+- Clic `Choose a file` and upload the Artwork you want to certificate. It will appear at the end of the page.
+
+- Now clic on `Authenticate Your Artwork` and the process will start.
+
+  - If your Artwork is yours, you'll be notified and your IP Certificate will be minted on XRPL.
+  - If your Artwork is a counterfeit, you'll be notified and anything will be minted.
+
+You can now go to the [XRPL Explorer](https://testnet.xrpl.org/accounts/rHg61hc4geGJM4fD9QLBwGd6EYccQ11hcT) and check your new certificate!
